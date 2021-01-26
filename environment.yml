@@ -1,0 +1,10 @@
+name: frap
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+  - scipy
+  - jupyter
+prefix: C:\Users\kolbi\Documents\eagle\.conda\envs\frap
